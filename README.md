@@ -1,1 +1,1 @@
-![plot](/Rplot02.png =100x20) ![plot](/Rplot04.png =100x20)
+![plot](/Rplot02.png) { width: 200px; } ![plot](/Rplot04.png) { width: 200px; }
