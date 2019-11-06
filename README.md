@@ -1,1 +1,1 @@
-![plot](/Rplot02.png) ![plot](/Rplot04.png) 
+<img src="https://user-images.githubusercontent.com/50182218/68293460-47e88c00-008e-11ea-8611-b1a683a20121.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/50182218/68293468-4e770380-008e-11ea-9ba6-b6126195423c.png" width="45%"></img> 
