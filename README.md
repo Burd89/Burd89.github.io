@@ -1,1 +1,2 @@
-![plot](/Rplot02.png) { width: 200px; } ![plot](/Rplot04.png) { width: 200px; }
+<img src="Rplot02.png" alt="drawing" width="200"/>
+![plot](/Rplot02.png) ![plot](/Rplot04.png) 
