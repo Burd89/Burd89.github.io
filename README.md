@@ -1,6 +1,1 @@
-<div>
-    <a href="https://plot.ly/~Burd89/1/?share_key=AmX4P3JGt6lIAKcRblgiDy" target="_blank" title="ExpChart" style="display: block; text-align: center;"><img src="https://plot.ly/~Burd89/1.png?share_key=AmX4P3JGt6lIAKcRblgiDy" alt="ExpChart" style="max-width: 100%;width: 480px;"  width="480" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="Burd89:1" sharekey-plotly="AmX4P3JGt6lIAKcRblgiDy" src="https://plot.ly/embed.js" async></script>
-</div>
-
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/dashboard/Burd89:2/embed"></iframe>
