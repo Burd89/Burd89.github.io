@@ -3,4 +3,4 @@
     <script data-plotly="Burd89:1" sharekey-plotly="AmX4P3JGt6lIAKcRblgiDy" src="https://plot.ly/embed.js" async></script>
 </div>
 
-<img src="Rplot02.png" width="45%"> <img src="Rplot04.png" width="45%">
+
